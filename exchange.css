@@ -1,0 +1,63 @@
+ * {
+   margin: 0;
+ }
+
+.instructions {
+  text-align: center;
+  background-image: url("airplane.JPEG");
+}
+
+strong {
+  text-decoration: underline;
+}
+
+h1 {
+  padding: 20px;
+}
+
+.instructions {
+  padding-bottom: 20px;
+}
+
+.output {
+  text-align: center;
+    padding: 30px;
+}
+
+.output p {
+  font-size: 25px;
+  padding: 25px;
+}
+
+.output ul {
+  padding-bottom: 15px;
+}
+
+.CurrencyResults {
+  text-align: center;
+  padding: 20px;
+}
+
+p {
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.all {
+  background-image: url("Flags2.JPEG");
+  padding-bottom: 20px;
+}
+
+.footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #D2E6EB
+}
+
+.footer h3 {
+}
+
+.footer a {
+  font-style: italic;
+}

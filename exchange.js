@@ -33,7 +33,7 @@ function appendData(data) {
     var code = currencyCodes[i]
     var rate = data.rates[code]
     var div = document.createElement("div");
-    div.innerHTML = 'Currency: ' + data.base + ': ' + code + ' - ' + rate;
+    div.innerHTML = '<p>Exchange Rate: ' + data.base + ': ' + code + ' - ' + rate + "</p>";
     mainContainer.appendChild(div);
   }
 }
