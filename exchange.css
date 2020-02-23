@@ -33,6 +33,14 @@ h1 {
   padding-bottom: 15px;
 }
 
+.output li {
+  font-size: 35px;
+}
+
+label {
+  font-size: 35px;
+}
+
 .CurrencyResults {
   text-align: center;
   padding: 20px;
